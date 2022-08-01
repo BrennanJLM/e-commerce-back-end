@@ -8,7 +8,7 @@ The purpose of this challenge was to create a functional express.js API, and con
 - [Collaborators and References](#CollaboratorsandReferences)
 
 ## Installation:
-To run the E-commerce Back End run npm start (in the terminal) in the root folder of your projects.  Then locate localhost:3001 in insomnia to test get, post, put and delete routes
+To run the E-commerce Back End run node server.js (in the terminal) in the root folder of your projects.  Then locate localhost:3002 in insomnia to test get, post, put and delete routes
 
 ## User Story
 AS A manager at an internet retail company
